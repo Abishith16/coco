@@ -1,0 +1,1 @@
+ D:\\projects8\\carpooling\\.dart_tool\\flutter_build\\e53fe7a8a2f6022aad661dd20d18ccd3\\native_assets.yaml: 

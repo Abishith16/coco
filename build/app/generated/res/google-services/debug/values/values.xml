@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">586627765864</string>
+    <string name="google_api_key" translatable="false">AIzaSyCP5qfzbrNn3kokC6GdNiGkmYX7lnhVN2g</string>
+    <string name="google_app_id" translatable="false">1:586627765864:android:f71c1e8cf54e19e0d94ddd</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCP5qfzbrNn3kokC6GdNiGkmYX7lnhVN2g</string>
+    <string name="google_storage_bucket" translatable="false">carpooling-38202.firebasestorage.app</string>
+    <string name="project_id" translatable="false">carpooling-38202</string>
+</resources>
